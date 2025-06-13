@@ -1,4 +1,5 @@
 # IoT Weather Station with NodeMCU (ESP8266)
+#### Author: Bocaletto Luca
 
 A self-contained weather station that measures temperature, humidity, pressure and ambient light, then serves a live dashboard over Wi-Fi. Perfect for home automation or remote monitoring.
 
